@@ -1,0 +1,9 @@
+{
+  "name": "mdb-easydata",
+  "version": "1.0.0-alpha5",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/mdb-easydata.git"
+  }
+}
